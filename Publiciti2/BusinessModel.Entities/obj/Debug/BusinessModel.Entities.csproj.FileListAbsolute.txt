@@ -16,3 +16,21 @@ C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\BusinessMode
 C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\BusinessModel.Entities\bin\Debug\ru\System.Spatial.resources.dll
 C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\BusinessModel.Entities\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\BusinessModel.Entities\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\BusinessModel.Entities.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\BusinessModel.Entities.pdb
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\Support.DataBases.Provider.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\System.Spatial.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\Support.DataBases.Provider.pdb
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\System.Spatial.xml
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\obj\Debug\BusinessModel.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\obj\Debug\BusinessModel.Entities.dll
+C:\Users\Heraclio\Documents\Publiciti\Publiciti2\BusinessModel.Entities\obj\Debug\BusinessModel.Entities.pdb
