@@ -1,0 +1,615 @@
+Fecha:   27/06/2014 12:25:55
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 12:26:09
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:09:43
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:16:03
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:16:07
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:16:20
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:17:52
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresa', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:17:53
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresa', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:17:58
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresa', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:20:41
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:20:47
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresa', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   27/06/2014 13:20:49
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresa', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 11:08:23
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 11:08:47
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 11:56:33
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:01:23
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:04:05
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:07:05
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:12:19
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:17:27
+Usuario: cjauregui
+Permiso: 
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:21:06
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 12:21:19
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:25:31
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 12:25:38
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:27:45
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 12:27:52
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:30:19
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 12:30:26
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 12:31:18
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 12:31:34
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   30/06/2014 13:01:49
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 15:03:10
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   30/06/2014 15:03:19
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se intentó una inyección de SQL, revisar captura
+
+Fecha:   01/07/2014 10:29:59
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   01/07/2014 10:41:18
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   01/07/2014 10:41:56
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   01/07/2014 10:50:08
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   01/07/2014 11:49:41
+Usuario: cjauregui
+Permiso: Lector
+Error:   Se denegó el permiso EXECUTE en el objeto 'Clientes_stpGetEmpresas', base de datos 'dbPubliciti', esquema 'dbo'.
+
+Fecha:   01/07/2014 11:51:14
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 11:51:25
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 11:56:03
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 11:57:36
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:00:06
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:01:39
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:03:25
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:03:58
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:04:34
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:05:35
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:11:30
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:38:45
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:56:29
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 12:56:39
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:03:11
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:06:23
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:08:57
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:09:18
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:10:43
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:11:10
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:11:47
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:18:14
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:18:39
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:19:23
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:20:56
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:24:19
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:58:21
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 13:59:06
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 14:01:13
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 15:33:15
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 15:34:16
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 15:34:37
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   01/07/2014 15:35:48
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 10:33:15
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 10:34:45
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 11:41:22
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 13:27:00
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 13:45:30
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   02/07/2014 15:14:08
+Usuario: cjauregui
+Permiso: Administrador
+Error:   No se encontró el procedimiento almacenado 'stpGetSubCategoriasxCategoria'.
+
+Fecha:   02/07/2014 15:21:33
+Usuario: cjauregui
+Permiso: Administrador
+Error:   No se encontró el procedimiento almacenado 'stpGetSubCategoriasxCategoria'.
+
+Fecha:   03/07/2014 11:20:10
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   03/07/2014 11:20:37
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   03/07/2014 11:24:46
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Error no identificado
+
+Fecha:   03/07/2014 11:30:19
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 11:32:32
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 11:33:28
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 11:34:22
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 11:34:35
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 11:36:42
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 12:21:59
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 12:22:22
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 12:28:47
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   03/07/2014 12:29:30
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   04/07/2014 11:33:55
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Ya hay un DataReader abierto asociado a este Command, debe cerrarlo primero.
+
+Fecha:   04/07/2014 13:56:07
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 13:57:36
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 13:59:59
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:01:41
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:08:17
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:09:00
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:09:08
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   04/07/2014 14:09:35
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:09:42
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   04/07/2014 14:12:55
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:13:12
+Usuario: cjauregui
+Permiso: Administrador
+Error:   La conversión especificada no es válida.
+
+Fecha:   04/07/2014 14:14:24
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:14:51
+Usuario: cjauregui
+Permiso: Administrador
+Error:   La conversión especificada no es válida.
+
+Fecha:   04/07/2014 14:15:28
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:15:35
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Índice fuera de los límites de la matriz.
+
+Fecha:   04/07/2014 14:17:08
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:18:45
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:20:56
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:23:49
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 14:26:48
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:00:05
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:08:38
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:10:09
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:10:40
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:29:09
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:29:28
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:30:48
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:31:53
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:35:25
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   04/07/2014 15:36:38
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+
+Fecha:   08/07/2014 12:11:32
+Usuario: cjauregui
+Permiso: Administrador
+Error:   Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.
+

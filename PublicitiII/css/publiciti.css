@@ -1,0 +1,79 @@
+﻿
+@font-face{
+    font-family:'Prototype';
+    font-style:normal;
+    font-weight:normal;
+    src:url('Prototype.ttf')
+}
+        
+#botonera img {
+    max-width: 88%;
+    //padding-bottom: 6px;
+}
+        
+#cintillo div{
+    //border: 1px solid;
+}
+
+#cintillo img{
+    max-width: 79%;
+}
+
+/*
+    @media screen and (max-width: 800px) {
+    #resultado {
+            max-height: 250px;
+        }
+    }
+*/
+        
+
+@media screen and (max-width:481px) {
+
+    #botonera img {
+    max-width: 18%;
+    padding-bottom: 6px;
+    }
+        
+    #cintilloCont {
+        display: none;
+    }
+        
+    #principalCont img {
+        //max-width: 100%;
+    }
+        
+    #imgLupa {
+        margin-left: 115px;
+    }
+
+    #resultado {
+        max-height: 250px;
+    }
+}
+        
+img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
+    max-width: none;
+}
+ 
+@keyframes marquee {
+    0%   { text-indent: 250px }
+    100% { text-indent: -1000px }
+}
+
+@-webkit-keyframes marquee {
+    0%   { text-indent: 250px }
+    100% { text-indent: -1000px }
+}
+
+.marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: marquee 15s linear infinite;
+    -webkit-animation: marquee 15s linear infinite;
+}
+
+.marquee:hover {
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+}

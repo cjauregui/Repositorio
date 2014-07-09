@@ -1,0 +1,5 @@
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Globals\bin\Debug\Globals.dll
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Globals\bin\Debug\Globals.pdb
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Globals\obj\Debug\Globals.csprojResolveAssemblyReference.cache
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Globals\obj\Debug\Globals.dll
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Globals\obj\Debug\Globals.pdb

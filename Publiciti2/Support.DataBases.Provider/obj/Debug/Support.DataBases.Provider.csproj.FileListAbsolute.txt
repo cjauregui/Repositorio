@@ -1,0 +1,5 @@
+c:\users\cjauregui\documents\visual studio 2013\Projects\Publiciti2\Support.DataBases.Provider\bin\Debug\Support.DataBases.Provider.dll
+c:\users\cjauregui\documents\visual studio 2013\Projects\Publiciti2\Support.DataBases.Provider\bin\Debug\Support.DataBases.Provider.pdb
+c:\users\cjauregui\documents\visual studio 2013\Projects\Publiciti2\Support.DataBases.Provider\obj\Debug\Support.DataBases.Provider.dll
+c:\users\cjauregui\documents\visual studio 2013\Projects\Publiciti2\Support.DataBases.Provider\obj\Debug\Support.DataBases.Provider.pdb
+C:\Users\cjauregui\Documents\Visual Studio 2013\Projects\Publiciti2\Support.DataBases.Provider\obj\Debug\Support.DataBases.Provider.csprojResolveAssemblyReference.cache
